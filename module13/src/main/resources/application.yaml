@@ -4,7 +4,7 @@ logging:
 
 server:
   port: 8080
-  address: localhost
+  address: 0.0.0.0
 
 spring:
   datasource:
